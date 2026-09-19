@@ -58,7 +58,7 @@ iOS-inspired glass design · AES-256-GCM zero-knowledge encryption · buttery-sm
 
 ### One-click installer (recommended)
 
-1. Grab **`AuraVault-Setup-1.0.1.exe`** from the [latest release](https://github.com/your-username/auravault/releases/latest).
+1. Grab **`AuraVault-Setup-1.0.1.exe`** from the [latest release](https://github.com/Sarthak-Patil-tech/auravault/releases/latest).
 2. Double-click it. That's it — no wizard, no admin rights, no UAC prompt.
 3. AuraVault installs per-user, adds Desktop + Start Menu shortcuts, and launches.
 
