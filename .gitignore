@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+out/
+release/
+
+# Generated assets (rebuild with `npm run icons`)
+resources/icon.ico
+resources/icon-*.png
+resources/icon.png
+
+# Dev helpers
+shots/
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
