@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3ec6ff"/>
+      <stop offset=".45" stop-color="#0a84ff"/>
+      <stop offset="1" stop-color="#5e5ce6"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".5"/>
+      <stop offset=".55" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hole" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b62d6"/>
+      <stop offset="1" stop-color="#4646d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="228" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="228" fill="url(#sheen)"/>
+  <path d="M512 142l264 98v182c0 172-109 306-264 352-155-46-264-180-264-352V240z" fill="#ffffff" opacity=".97"/>
+  <path d="M512 142l264 98v182c0 172-109 306-264 352-155-46-264-180-264-352V240z" fill="url(#sheen)" opacity=".6"/>
+  <circle cx="512" cy="452" r="72" fill="url(#hole)"/>
+  <path d="M476 502h72l28 210H448z" fill="url(#hole)"/>
+</svg>
