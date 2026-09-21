@@ -17,7 +17,7 @@ guide before opening a PR.
 ## Dev setup
 
 ```bash
-git clone https://github.com/your-username/auravault.git
+git clone https://github.com/Sarthak-Patil-tech/auravault.git
 cd auravault
 npm install
 npm start
